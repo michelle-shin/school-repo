@@ -1,7 +1,17 @@
 body {
-    background-color: #E59500;
+    background-color: #E5DADA ;
 }
 
 h1 {
-    color: #E5DADA ;
+    color: #002642 ;
+}
+
+.navigation {
+    background-color: #e59500 ;
+    border: 10px solid #002642 ;
+}
+
+img {
+    width: 400px;
+    height: 500px;
 }
